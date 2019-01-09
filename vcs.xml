@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Zihao-Yang/python-LEC" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Zihao-Yang/interesting-python" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Catalyst\PycharmProjects" />
